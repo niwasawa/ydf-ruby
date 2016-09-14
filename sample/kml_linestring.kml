@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+<name>Nagoya Station to Mode Gakuen Spiral Towers</name>
+<atom:author>
+<atom:name>niwasawa</atom:name>
+</atom:author> 
+<atom:link href="http://latlonglab.yahoo.co.jp/route/watch?id=c929431b4a7b07546ff59b30f50aa951" />
+<description><![CDATA[Welcome to the last dungeon in Nagoya.]]></description> 
+<Placemark>
+<Style>
+<LineStyle>
+<color>99ff0000</color>
+<width>6</width>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>
+136.8824888888889,35.170765277777775,1
+136.88327194444443,35.17087055555555,1
+136.88327194444443,35.17087055555555,1
+136.88396944444443,35.17070388888889,1
+136.88396944444443,35.17070388888889,1
+136.88425916666668,35.1700725,2
+136.88425916666668,35.1700725,2
+136.88446305555556,35.169449444444446,2
+136.88446305555556,35.169449444444446,2
+136.884785,35.16826555555556,2
+136.884785,35.16826555555556,2
+136.88545027777778,35.168396944444446,2
+136.88545027777778,35.168396944444446,2
+136.88550388888888,35.168283055555555,2
+</coordinates>
+</LineString>
+</Placemark>
+</Document>
+</kml>
