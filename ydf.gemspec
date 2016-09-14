@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Naoki Iwasawa"]
   spec.email         = ["niwasawa@maigo.info"]
 
-  spec.summary       = %q{The converter of geo data format for YDF (YOLP Data Format). This ruby gem is experimental and unstable.}
-  spec.description   = %q{The converter of geo data format for YDF (YOLP Data Format). This ruby gem is experimental and unstable.}
+  spec.summary       = %q{This library is a converter of geo data format for YDF (YOLP Data Format) on Ruby. This library is experimental and unstable.}
+  spec.description   = %q{This library is a converter of geo data format for YDF (YOLP Data Format) on Ruby. This library is experimental and unstable.}
   spec.homepage      = "https://github.com/niwasawa/ydf-ruby"
   spec.license       = "MIT"
 
