@@ -1,4 +1,3 @@
-#require 'rubygems'
 require "ydf"
 require 'open-uri'
 
@@ -13,7 +12,6 @@ kml = read(filepath)
 puts kml
 
 doc = YDF::Convert::KML.new().parse(kml)
-puts doc.to_s
 
 ydf = YDF::Convert::YDFXML.new().generate(doc)
 puts ydf
